@@ -1,0 +1,13 @@
+{
+  "pages": [
+    {
+      "name": "pages/LoginPage",
+      "src": "pages/LoginPage",
+      "type": "entry"
+    },
+    {
+      "name": "pages/HomePage",
+      "src": "pages/HomePage"
+    }
+  ]
+}
